@@ -10,7 +10,7 @@ The following figure presents an illustration of SERGCL.
 
 # Main experiment results.
 ![class-IL results](./assets/classIL.png)
-![task-IL results](./assets/taskIL.PNG)
+![task-IL results](./assets/TaskIL.png)
 ![Visualization of node coverage of historical graphs](./assets/UMAP.png)
 
 # Experiment environment
