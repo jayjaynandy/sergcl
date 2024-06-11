@@ -6,7 +6,7 @@ The following figure compares the typical sampling-based replay for GCL, condens
 ![Comparison of various replay-based framework for GCL](./assets/Comparison.PNG)
 
 The following figure presents an illustration of SERGCL.
-![Comparison of various replay-based framework for GCL](./assets/Comparison.PNG)
+![Comparison of various replay-based framework for GCL](./assets/SERGCL.PNG)
 
 # Main experiment results.
 ![class-IL results](./assets/classIL.png)
