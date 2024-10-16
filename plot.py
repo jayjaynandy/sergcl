@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 ds = 'products'
 budget = 318
-ps = torch.load(f'/DATA/arnab/CaT-CGL-StoreStats/results/performance_new/{ds}_{budget}_cgm_normal_randomChoice_feat_0.001_1000_2_layer_512_GCN_hop_1_tim.pt')
+ps = torch.load(f'/DATA/CaT-CGL-StoreStats/results/performance_new/{ds}_{budget}_cgm_normal_randomChoice_feat_0.001_1000_2_layer_512_GCN_hop_1_tim.pt')
 ps = ps[0].numpy()
 # Create a mask
 mask = np.triu((np.ones_like(ps) - np.eye(ps.shape[0])).astype(bool))
